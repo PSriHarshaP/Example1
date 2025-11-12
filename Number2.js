@@ -1,4 +1,3 @@
-var name = "Sri";
-console.log(name)
-char = 13
-console.log(char)
+document.querySelector(".Click").addEventListener("click", ()=>{
+    alert("Welcome to the MERN Stack World");
+});
